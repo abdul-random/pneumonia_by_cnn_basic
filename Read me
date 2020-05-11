@@ -1,0 +1,3 @@
+This is a classification model for a data set from kaggle which is Chest X-Ray Images (Pneumonia).
+Used CNN to classify the chest X-ray and deteramil weather the patient is having Pneumonia or not.
+Basic model hyperparameter tuning not done.
